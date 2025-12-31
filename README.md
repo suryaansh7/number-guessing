@@ -1,1 +1,1 @@
-# number-guessing
+this is a number guessing project
